@@ -16,6 +16,7 @@ build:
 requirements:
   build:
     - cmake              # [win]
+    - make               # [unix]
     - autoconf           # [unix]
     - automake           # [unix]
     - libtool            # [unix]
